@@ -29,4 +29,3 @@ while flag_1:
 
         else:
             print("THe price of your ticket is 4.000, theanks for your purchase.")
-        break
