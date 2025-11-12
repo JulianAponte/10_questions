@@ -18,7 +18,7 @@ while flag_1:
             continue
 
         
-        if age < 5:
+        elif age < 5:
             print("¡Your ticket is free, enjoy the movie!")
 
         elif 5 <= age <= 11:
